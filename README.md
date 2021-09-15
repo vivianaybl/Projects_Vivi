@@ -4,7 +4,7 @@
 
 
 ------------
-[![desarrolo web](google "desarrolo web")](http://https://es.vecteezy.com/arte-vectorial/523378-desarrollo-web-diseno-de-aplicaciones-codificacion-y-programacion-en-concepto-de-computadora-portatil-y-telefono-inteligente-con-lenguaje-de-programacion-y-codigo-de-programa-y-diseno-en-vector-de-pantalla "desarrolo web")
+[![](https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)](http://https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)
 
 ------------
 
