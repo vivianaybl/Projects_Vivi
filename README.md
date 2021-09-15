@@ -2,10 +2,6 @@
 #  :wave: Bienvenido a mi repositorio :smile: 
 ## :purple_heart: Viviana baron  :purple_heart:
 
-
-------------
-[![](https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)](http://https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)
-
 ------------
 
 ## Contenido :books:
@@ -32,6 +28,10 @@ Estos proyectos corresponden a los cursos
 
 ## Autor  :woman:
 - :paw_prints:**Viviana Baron** :tiger:
+
+
+------------
+[![](https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)](http://https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)
 
 
 
